@@ -1,0 +1,41 @@
+hr
+{
+    width: 235px;
+    margin-left: 30px;
+    height: 5px;
+    background-color: black;    
+}
+
+h1
+{
+    margin-right: 1200px;
+    margin-bottom: 0px;
+}
+
+h3
+{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+}
+input
+{
+    margin-left: 10px;
+}
+form
+{
+    margin-left: 10px;   
+}
+
+.partbaixo
+{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.baixo
+{
+    margin-left: 100px;
+    margin-right: 100px;
+}

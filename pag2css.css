@@ -1,0 +1,20 @@
+.imagemplus
+{
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+}
+.partbaixo
+{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.baixo
+{
+    margin-left: 100px;
+    margin-right: 100px;
+}
